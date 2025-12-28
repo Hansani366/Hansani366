@@ -5,7 +5,7 @@
 ---
 
 
-- 🌱 I’m currently learning **JAVA,REACT**
+- 🌱 I’m currently learning **ANGULAR,REACT**
 
 - 💬 Ask me about **HTML,CSS,JAVASCRIPT,PHP**
 
